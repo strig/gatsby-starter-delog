@@ -1,0 +1,8 @@
+---
+template: BlogPost
+path: funny-post
+date: 2020-04-26T23:13:33.526Z
+title: Hahah Funny Post
+thumbnail: /assets/download.jpg
+---
+funniest shit I've ever seen
